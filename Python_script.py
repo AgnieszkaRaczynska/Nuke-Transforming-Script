@@ -1,3 +1,5 @@
+import nuke
+
 strRepeats = nuke.getInput("Please enter the number of copies:", "50")
 
 iRepeats = int(strRepeats)
